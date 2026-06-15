@@ -1,16 +1,49 @@
-# React + Vite
+# 🎓 Student Productivity Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based productivity dashboard for students.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🎯 Goal Tracker
+- Add and delete goals
+- Mark goals as completed
+- Progress tracking
 
-## React Compiler
+### 📚 Attendance Calculator
+- Calculate attendance percentage
+- Safe Zone / Warning insights
+- Attendance statistics
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎓 CGPA Tracker
+- Add semester-wise SGPA
+- Automatic CGPA calculation
+- Data stored locally
 
-## Expanding the ESLint configuration
+### 🍅 Pomodoro Timer
+- Focus Mode (25 mins)
+- Break Mode (5 mins)
+- Session tracking
+- Study time analytics
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🌙 Dark Mode
+- Beautiful dark/light theme toggle
+
+### 💾 Local Storage Support
+- Saves all data automatically
+- Persists after page refresh
+
+## Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- CSS3
+
+## Live Demo
+
+https://student-productivity-hub-one.vercel.app
+
+## Author
+
+Ritesh Tiwari
+B.Tech CSE (2024–2028)
